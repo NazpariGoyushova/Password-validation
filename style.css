@@ -16,7 +16,7 @@ body{
     display:grid;
     place-items: center;
     background-color: white;
-    border-radius: 8px;
+    border-radius: 7px;
     box-shadow: 5px 5px 20px 0;
 }
 input{
